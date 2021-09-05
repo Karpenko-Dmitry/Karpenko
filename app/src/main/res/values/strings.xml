@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TincoffTestTask</string>
+    <string name="latest">Latest</string>
+    <string name="top">Top</string>
+    <string name="hot">Hot</string>
+    <string name="random">Random</string>
+</resources>
